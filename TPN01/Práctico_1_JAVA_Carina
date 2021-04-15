@@ -1,0 +1,40 @@
+  Curso JAVA
+Práctico I – Introducción a JAVA: Tipos de Datos Primitivos y Cálculos Simples
+
+Ejercicio 1: Imprimir en pantalla la división de 28 por 3 y luego imprimir la división de 28 por 3.0
+¿Cuál es la diferencia?
+
+Ejercicio 2: Calcule la raíz cuadrada del número 458. Muestre el resultado completo con decimales, y
+luego muéstrelo truncado. *Para calcular una raíz cuadrada de un número n, utilice Math.sqrt(n)
+
+Ejercicio 2: Realizar un programita para cada caso que calcule las siguientes expresiones numéricas, y
+luego muestre el resultado. Determine cuándo necesitará una variable tipo int o tipo float para realizar
+el cálculo.
+
+a. (3+8)(6-2)
+b. 2(10-2)/-1(8-12)
+c. 3√9
+d. 10∑i=1 i
+e. 8∏j=2 j+1
+f. (1/2)+(2/3)+(3/4)+(4/5)
+g. 3+4
+h. (-8+(√(8^2-4*3*1)))/2*3
+
+Ejercicio 3: Realizar un programa que calcule para una temperatura determinada, por ejemplo 170, en Fahrenheit,
+su temperatura equivalente, en grados Celsius. Recordar que la relación entre ambas
+cantidades es Tc = (5/9)(Tf – 32) * Siendo Tc la temperatura en Celsius, y Tf la temperatura en Fahrenheit.
+
+Ejercicio 4: Declare una variable del tipo char, llamada c, y dele una letra inicial de valor. Por ejemplo,
+un ‘a’. ¿Qué ocurre si intenta sumar la variable c, al valor 5? ¿La computadora lo suma, o devuelve un error de
+tipos?
+
+Ejercicio 5: Escribir un programita que permita convertir una medida dada en pulgadas, a una medida en metros.
+Utilizar el ingreso de datos por parte del usuario, mediante Scanner. * Una pulgada es 0.0254 mtrs
+
+Ejercicio 6: Escribir un programita que pida 3 notas al usuario, y luego imprima en pantalla el promedio de esas
+3 notas.
+
+Ejercicio 7: Escribir un programita que permita ingresar tres números a, b, c correspondientes a una
+función cuadrática de la forma 𝑎𝑎𝑥𝑥2+𝑏𝑏𝑥𝑥+𝑐𝑐 y determine ambas raíces cuadráticas. Recordar que la fórmula
+para las raíces de la función cuadrática es  −𝑏±(√𝑏^2−4*a*c)/2*a
+
